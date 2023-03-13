@@ -1,0 +1,60 @@
+Front -end : 
+1.  Đăng ký
+2.  Đăng nhập
+3.  Đăng xuất
+4.  Quản lý giỏ hàng
+5.  Tìm kiếm
+6.  Liên hệ
+7.  Tra cứu đơn hàng
+8.  Xem danh mục sp cho nữ
+9.  Xem danh mục sp cho nam 
+10. Xem danh mục sp cho trẻ em
+11. Xem danh mục CLEARANCE SALE
+12. Xem danh sách sp
+13  Xem sản phẩm chi tiết
+14. Xem danh sách cửa hàng (- còn hàng)
+15. Xem thông tin cửa hàng -( về ivymoda - về chúng tôi)
+16. Xem bộ sưu tập
+17. Xem bài viết - Tin tức
+18. Xem khuyến mãi
+19. Xem thông tin tuyển dụng
+20. Tìm kiếm hệ thống cửa hàng (- theo khu vực, tỉnh)
+21. Xem dịch vụ khách hàng
+
+-- Cần đăng nhập
+22. Quên mật khẩu
+23. Đổi mật khẩu
+24. Xem thông tin cá nhân
+25. Cập nhật thông tin cá nhân
+26. Xem lịch sử đăng nhập
+27. Quản lý đơn hàng
+28. Quản lý sổ địa chỉ
+29. Quản lý sp yêu thích
+30. Xem sp đã xem - (thêm vào or ko ????)
+31. Thanh toán
+
+Back-end
+32. Đăng nhập
+33. Đăng xuất
+34. Bảo trì danh mục sp hot
+35. Bảo trì danh mục sp tổng quát
+36. Bảo trì danh mục sp chi tiết
+37. Bảo trì kích thước sp
+38. Bảo trì màu sắc sp
+39. Bảo trì sản phẩm
+40. Bảo trì khuyến mãi
+41. Quản lý lịch sử đăng nhập
+42. quản lý tài khoản
+43. Bảo trì cửa hàng
+44. Bảo trì hình ảnh
+46. Quản lý khách hàng
+47. Bảo trì liên hệ
+48. Quản lý đơn hàng
+49. Bảo trì bộ sưu tập
+50. Bảo trì danh mục tin tức
+51. Bảo trì tin tức
+52. Bảo trì phòng ban
+53. Bảo trì dịch vụ khách hàng
+54. Bảo trì thông tin tuyển dụng
+55. Quản lý đối tượng sp
+-- Quản lý địa chỉ nhận hàng (thêm vào or ko ????)
